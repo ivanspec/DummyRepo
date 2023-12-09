@@ -1,2 +1,2 @@
 # DummyRepo
-Dummy Repo for DS
+Dummy Repo for Dgital Skola
